@@ -1,7 +1,22 @@
---	SrcRegActList.hs
+-- SrcRegActList.hs
 --
---	Author: Yoshikuni Jujo <PAF01143@nifty.ne.jp>
+-- Author: Yoshikuni Jujo <PAF01143@nifty.ne.jp>
 --
+-- This file is part of regexpr library
+--
+-- regexpr is free software: you can redistribute it and/or modify
+-- it under the terms of the GNU Lesser General Public License as
+-- published by the Free Software Foundation, either version 3 of the
+-- License, or any later version.
+--
+-- regexpr is distributed in the hope that it will be useful,
+-- but WITHOUT ANY WARRANGY; without even the implied warranty of
+-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+-- GNU Lesser General Public License for more details.
+--
+-- You should have received a copy of the GNU Lesser General Public
+-- License along with this program. If not, see
+-- <http://www.gnu.org/licenses/>.
 
 module Hidden.SrcRegActList (
   selfTest

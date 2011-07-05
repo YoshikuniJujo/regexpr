@@ -5,12 +5,12 @@
 --
 -- This file is part of regexpr library
 --
--- mtlparse is free software: you can redistribute it and/or modify
+-- regexpr is free software: you can redistribute it and/or modify
 -- it under the terms of the GNU Lesser General Public License as
 -- published by the Free Software Foundation, either version 3 of the
 -- License, or any later version.
 --
--- mtlparse is distributed in the hope that it will be useful,
+-- regexpr is distributed in the hope that it will be useful,
 -- but WITHOUT ANY WARRANGY; without even the implied warranty of
 -- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 -- GNU Lesser General Public License for more details.
